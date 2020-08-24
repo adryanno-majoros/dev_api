@@ -1,0 +1,24 @@
+Aqui estão todas as lib´s para esse projeto.
+
+click==7.1.2
+Flask==1.1.2
+itsdangerous==1.1.0
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+Werkzeug==1.0.1
+
+
+Instalar:
+pip install flask-restful
+
+click==7.1.2
+Flask==1.1.2
+Flask-RESTful==0.3.8
+itsdangerous==1.1.0
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+pytz==2020.1
+six==1.15.0
+Werkzeug==1.0.1
+
+
